@@ -1,0 +1,18 @@
+{
+    "name": "angular-sofa-date-field",
+    "version": "0.1.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK Angular Date Field component.",
+    "main": "dist/sofaDateField.js",
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "directive"
+    ],
+    "license": "GPL"
+}
